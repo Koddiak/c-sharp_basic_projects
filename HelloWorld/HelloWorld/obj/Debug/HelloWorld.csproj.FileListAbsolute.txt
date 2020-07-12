@@ -1,0 +1,7 @@
+C:\GitHub\repositories\c-sharp_basic_projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\GitHub\repositories\c-sharp_basic_projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\GitHub\repositories\c-sharp_basic_projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\GitHub\repositories\c-sharp_basic_projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+C:\GitHub\repositories\c-sharp_basic_projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\GitHub\repositories\c-sharp_basic_projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\GitHub\repositories\c-sharp_basic_projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
