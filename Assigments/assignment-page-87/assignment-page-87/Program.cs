@@ -28,7 +28,7 @@ namespace assignment_page_87
             Console.Write(Environment.NewLine);
 
             Console.WriteLine("Please input an integer to be divided by 7, we will find the resulting remainder: ");
-            int remainder = Convert.ToInt32(Console.ReadLine()) / 7;
+            int remainder = Convert.ToInt32(Console.ReadLine()) % 7;
             Console.WriteLine("The remainder is: " + remainder);
             Console.ReadLine();
         }

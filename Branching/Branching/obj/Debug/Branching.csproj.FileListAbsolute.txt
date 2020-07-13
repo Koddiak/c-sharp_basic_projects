@@ -1,0 +1,7 @@
+C:\Users\Koddiak\source\repos\Branching\Branching\bin\Debug\Branching.exe.config
+C:\Users\Koddiak\source\repos\Branching\Branching\bin\Debug\Branching.exe
+C:\Users\Koddiak\source\repos\Branching\Branching\bin\Debug\Branching.pdb
+C:\Users\Koddiak\source\repos\Branching\Branching\obj\Debug\Branching.csprojAssemblyReference.cache
+C:\Users\Koddiak\source\repos\Branching\Branching\obj\Debug\Branching.csproj.CoreCompileInputs.cache
+C:\Users\Koddiak\source\repos\Branching\Branching\obj\Debug\Branching.exe
+C:\Users\Koddiak\source\repos\Branching\Branching\obj\Debug\Branching.pdb
