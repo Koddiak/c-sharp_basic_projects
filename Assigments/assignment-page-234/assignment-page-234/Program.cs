@@ -12,27 +12,23 @@ namespace assignment_page_234
         {
             try
             {
-                int age = 0;
-                Console.WriteLine("What is your age?");
-                bool validAnswer = int.TryParse(Console.ReadLine(), out age);
+                int year = 0;
+                Console.WriteLine("What year were you born?");
+                bool validAnswer = int.TryParse(Console.ReadLine(), out year);
 
                 Console.Write(Environment.NewLine);
 
                 if (!validAnswer)
                 {
-                    Console.WriteLine("Please enter an integer representation of your age in years.");
+                    Console.WriteLine("Please enter an integer representation of the year you were born.");
                 }
-                else if (age <= 0)
+                else if (year < 1903) //The oldest living person was born in 1903.
                 {
-                    Console.WriteLine("Please enter a valid age in years.");
-                }
-                else if (age == 1)
-                {
-                    Console.WriteLine("You are {0} year old.", age);
+                    Console.WriteLine("Please enter a valid year.");
                 }
                 else
                 {
-                    Console.WriteLine("You are {0} years old.", age);
+                    Console.WriteLine("You were born in the year {0}", year);
                 }
                 Console.ReadLine();
             }
