@@ -1,0 +1,13 @@
+C:\GitHub\repositories\c-sharp_basic_projects\HelloWorldCore\bin\Debug\netcoreapp3.1\HelloWorldCore.exe
+C:\GitHub\repositories\c-sharp_basic_projects\HelloWorldCore\bin\Debug\netcoreapp3.1\HelloWorldCore.deps.json
+C:\GitHub\repositories\c-sharp_basic_projects\HelloWorldCore\bin\Debug\netcoreapp3.1\HelloWorldCore.runtimeconfig.json
+C:\GitHub\repositories\c-sharp_basic_projects\HelloWorldCore\bin\Debug\netcoreapp3.1\HelloWorldCore.runtimeconfig.dev.json
+C:\GitHub\repositories\c-sharp_basic_projects\HelloWorldCore\bin\Debug\netcoreapp3.1\HelloWorldCore.dll
+C:\GitHub\repositories\c-sharp_basic_projects\HelloWorldCore\bin\Debug\netcoreapp3.1\HelloWorldCore.pdb
+C:\GitHub\repositories\c-sharp_basic_projects\HelloWorldCore\obj\Debug\netcoreapp3.1\HelloWorldCore.csprojAssemblyReference.cache
+C:\GitHub\repositories\c-sharp_basic_projects\HelloWorldCore\obj\Debug\netcoreapp3.1\HelloWorldCore.AssemblyInfoInputs.cache
+C:\GitHub\repositories\c-sharp_basic_projects\HelloWorldCore\obj\Debug\netcoreapp3.1\HelloWorldCore.AssemblyInfo.cs
+C:\GitHub\repositories\c-sharp_basic_projects\HelloWorldCore\obj\Debug\netcoreapp3.1\HelloWorldCore.csproj.CoreCompileInputs.cache
+C:\GitHub\repositories\c-sharp_basic_projects\HelloWorldCore\obj\Debug\netcoreapp3.1\HelloWorldCore.dll
+C:\GitHub\repositories\c-sharp_basic_projects\HelloWorldCore\obj\Debug\netcoreapp3.1\HelloWorldCore.pdb
+C:\GitHub\repositories\c-sharp_basic_projects\HelloWorldCore\obj\Debug\netcoreapp3.1\HelloWorldCore.genruntimeconfig.cache
